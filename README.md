@@ -46,7 +46,8 @@ Weekly trends show fluctuations, indicating seasonal or demand patterns
 Gender-based analysis helps in targeted marketing strategies
 ## 📷 Dashboard / Visuals
 
-<img width="2687" height="1323" alt="image" src="https://github.com/user-attachments/assets/1c528abf-397b-4beb-94e6-6ed93f2b7331" />
+<img width="3674" height="1809" alt="image" src="https://github.com/user-attachments/assets/af70fc88-dfd9-44ac-9713-f438ddd80bc9" />
+
 
 
 ## Example:
